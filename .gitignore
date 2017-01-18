@@ -91,5 +91,3 @@ ENV/
 # Dataset images
 
 fundusphotos/
-bottlenecks/
-inception/
