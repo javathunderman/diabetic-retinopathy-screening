@@ -1,0 +1,3 @@
+Conducted with a small number of slightly diseased pictures (approximately sixteen images with categorization status one or two versus the regular diseased statuses of three and four)
+
+This is the same dataset as itwo. Only difference is that five images were added to the testing set so as to assess the AI's ability to classify images with less pronounced signs of retinopathy. 
