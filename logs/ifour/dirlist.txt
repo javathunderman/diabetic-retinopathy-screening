@@ -1,236 +1,236 @@
 total 249000
--rw-rw-r-- 1 arjun arjun       0 Feb  5 11:18 dirlist.txt
--rw-rw-r-- 1 arjun arjun 1504596 Feb  8  2015 1658_left.jpeg
--rw-rw-r-- 1 arjun arjun  776577 Feb  8  2015 1640_right.jpeg
--rw-rw-r-- 1 arjun arjun 1585508 Feb  8  2015 1636_right.jpeg
--rw-rw-r-- 1 arjun arjun 1542209 Feb  8  2015 1636_left.jpeg
--rw-rw-r-- 1 arjun arjun 1388233 Feb  8  2015 1632_right.jpeg
--rw-rw-r-- 1 arjun arjun 1378896 Feb  8  2015 1632_left.jpeg
--rw-rw-r-- 1 arjun arjun 1292379 Feb  8  2015 1614_right.jpeg
--rw-rw-r-- 1 arjun arjun 1161258 Feb  8  2015 1614_left.jpeg
--rw-rw-r-- 1 arjun arjun 1270344 Feb  8  2015 1607_right.jpeg
--rw-rw-r-- 1 arjun arjun 1286160 Feb  8  2015 1607_left.jpeg
--rw-rw-r-- 1 arjun arjun 1033705 Feb  8  2015 15_right.jpeg
--rw-rw-r-- 1 arjun arjun 1034031 Feb  8  2015 15_left.jpeg
--rw-rw-r-- 1 arjun arjun 1649277 Feb  8  2015 1599_right.jpeg
--rw-rw-r-- 1 arjun arjun 1659442 Feb  8  2015 1599_left.jpeg
--rw-rw-r-- 1 arjun arjun  383479 Feb  8  2015 1592_right.jpeg
--rw-rw-r-- 1 arjun arjun  376309 Feb  8  2015 1592_left.jpeg
--rw-rw-r-- 1 arjun arjun 1211261 Feb  8  2015 1570_left.jpeg
--rw-rw-r-- 1 arjun arjun 1339541 Feb  8  2015 155_right.jpeg
--rw-rw-r-- 1 arjun arjun  745904 Feb  8  2015 1557_right.jpeg
--rw-rw-r-- 1 arjun arjun 1051284 Feb  8  2015 1552_right.jpeg
--rw-rw-r-- 1 arjun arjun 1092603 Feb  8  2015 1552_left.jpeg
--rw-rw-r-- 1 arjun arjun  864457 Feb  8  2015 1544_right.jpeg
--rw-rw-r-- 1 arjun arjun  859135 Feb  8  2015 1544_left.jpeg
--rw-rw-r-- 1 arjun arjun  291345 Feb  8  2015 1541_right.jpeg
--rw-rw-r-- 1 arjun arjun  290558 Feb  8  2015 1541_left.jpeg
--rw-rw-r-- 1 arjun arjun  332158 Feb  8  2015 1540_right.jpeg
--rw-rw-r-- 1 arjun arjun  350122 Feb  8  2015 1540_left.jpeg
--rw-rw-r-- 1 arjun arjun  771640 Feb  8  2015 1536_right.jpeg
--rw-rw-r-- 1 arjun arjun  777660 Feb  8  2015 1536_left.jpeg
--rw-rw-r-- 1 arjun arjun 1274026 Feb  8  2015 1532_left.jpeg
--rw-rw-r-- 1 arjun arjun 1710060 Feb  8  2015 1530_right.jpeg
--rw-rw-r-- 1 arjun arjun 1675074 Feb  8  2015 1530_left.jpeg
--rw-rw-r-- 1 arjun arjun 1409523 Feb  8  2015 1527_left.jpeg
--rw-rw-r-- 1 arjun arjun 1080400 Feb  8  2015 1526_left.jpeg
--rw-rw-r-- 1 arjun arjun 1400357 Feb  8  2015 1520_right.jpeg
--rw-rw-r-- 1 arjun arjun 1397401 Feb  8  2015 1520_left.jpeg
--rw-rw-r-- 1 arjun arjun 1206553 Feb  8  2015 1509_right.jpeg
--rw-rw-r-- 1 arjun arjun  791863 Feb  8  2015 1505_left.jpeg
--rw-rw-r-- 1 arjun arjun 1465020 Feb  8  2015 1501_right.jpeg
--rw-rw-r-- 1 arjun arjun 1461331 Feb  8  2015 1501_left.jpeg
--rw-rw-r-- 1 arjun arjun 1208059 Feb  8  2015 1500_left.jpeg
--rw-rw-r-- 1 arjun arjun  664692 Feb  8  2015 1496_right.jpeg
--rw-rw-r-- 1 arjun arjun  638142 Feb  8  2015 1496_left.jpeg
--rw-rw-r-- 1 arjun arjun  714445 Feb  8  2015 1495_right.jpeg
--rw-rw-r-- 1 arjun arjun  768750 Feb  8  2015 1495_left.jpeg
--rw-rw-r-- 1 arjun arjun 1418637 Feb  8  2015 1487_left.jpeg
--rw-rw-r-- 1 arjun arjun  754108 Feb  8  2015 1475_right.jpeg
--rw-rw-r-- 1 arjun arjun  304701 Feb  8  2015 1475_left.jpeg
--rw-rw-r-- 1 arjun arjun 1458187 Feb  8  2015 1469_right.jpeg
--rw-rw-r-- 1 arjun arjun 1553834 Feb  8  2015 1469_left.jpeg
--rw-rw-r-- 1 arjun arjun  384458 Feb  8  2015 1454_left.jpeg
--rw-rw-r-- 1 arjun arjun 1539751 Feb  8  2015 1444_right.jpeg
--rw-rw-r-- 1 arjun arjun 1583365 Feb  8  2015 1444_left.jpeg
--rw-rw-r-- 1 arjun arjun  803946 Feb  8  2015 1419_right.jpeg
--rw-rw-r-- 1 arjun arjun  819571 Feb  8  2015 1419_left.jpeg
--rw-rw-r-- 1 arjun arjun 1121605 Feb  8  2015 1412_left.jpeg
--rw-rw-r-- 1 arjun arjun 1485579 Feb  8  2015 1409_left.jpeg
--rw-rw-r-- 1 arjun arjun 1005736 Feb  8  2015 1407_right.jpeg
--rw-rw-r-- 1 arjun arjun 1093009 Feb  8  2015 1407_left.jpeg
--rw-rw-r-- 1 arjun arjun 1392982 Feb  8  2015 1391_right.jpeg
--rw-rw-r-- 1 arjun arjun  335665 Feb  8  2015 1374_right.jpeg
--rw-rw-r-- 1 arjun arjun  680307 Feb  8  2015 1369_right.jpeg
--rw-rw-r-- 1 arjun arjun  669981 Feb  8  2015 1369_left.jpeg
--rw-rw-r-- 1 arjun arjun 1669165 Feb  8  2015 1367_right.jpeg
--rw-rw-r-- 1 arjun arjun 1637979 Feb  8  2015 1367_left.jpeg
--rw-rw-r-- 1 arjun arjun  798665 Feb  8  2015 1362_right.jpeg
--rw-rw-r-- 1 arjun arjun  715074 Feb  8  2015 1362_left.jpeg
--rw-rw-r-- 1 arjun arjun 1468300 Feb  8  2015 1343_right.jpeg
--rw-rw-r-- 1 arjun arjun 1337861 Feb  8  2015 1343_left.jpeg
--rw-rw-r-- 1 arjun arjun 1387182 Feb  8  2015 1324_right.jpeg
--rw-rw-r-- 1 arjun arjun  720652 Feb  8  2015 1309_left.jpeg
--rw-rw-r-- 1 arjun arjun 1431294 Feb  8  2015 129_right.jpeg
--rw-rw-r-- 1 arjun arjun 1424619 Feb  8  2015 129_left.jpeg
--rw-rw-r-- 1 arjun arjun  730825 Feb  8  2015 1296_right.jpeg
--rw-rw-r-- 1 arjun arjun  715704 Feb  8  2015 1296_left.jpeg
--rw-rw-r-- 1 arjun arjun  752225 Feb  8  2015 1290_right.jpeg
--rw-rw-r-- 1 arjun arjun  740840 Feb  8  2015 1290_left.jpeg
--rw-rw-r-- 1 arjun arjun 1103649 Feb  8  2015 1283_left.jpeg
--rw-rw-r-- 1 arjun arjun 1466688 Feb  8  2015 1277_left.jpeg
--rw-rw-r-- 1 arjun arjun 1407824 Feb  8  2015 1266_right.jpeg
--rw-rw-r-- 1 arjun arjun 1496292 Feb  8  2015 1266_left.jpeg
--rw-rw-r-- 1 arjun arjun 1381958 Feb  8  2015 1259_right.jpeg
--rw-rw-r-- 1 arjun arjun 1367401 Feb  8  2015 1259_left.jpeg
--rw-rw-r-- 1 arjun arjun 1489162 Feb  8  2015 1233_right.jpeg
--rw-rw-r-- 1 arjun arjun 1458665 Feb  8  2015 1233_left.jpeg
--rw-rw-r-- 1 arjun arjun  410228 Feb  8  2015 1226_left.jpeg
--rw-rw-r-- 1 arjun arjun 1655208 Feb  8  2015 1204_right.jpeg
--rw-rw-r-- 1 arjun arjun 1537413 Feb  8  2015 1204_left.jpeg
--rw-rw-r-- 1 arjun arjun 1444140 Feb  8  2015 1178_right.jpeg
--rw-rw-r-- 1 arjun arjun  999828 Feb  8  2015 1178_left.jpeg
--rw-rw-r-- 1 arjun arjun 1507020 Feb  8  2015 1167_right.jpeg
--rw-rw-r-- 1 arjun arjun 1532284 Feb  8  2015 1167_left.jpeg
--rw-rw-r-- 1 arjun arjun  941092 Feb  8  2015 1152_right.jpeg
--rw-rw-r-- 1 arjun arjun 1259396 Feb  8  2015 11526_left.jpeg
--rw-rw-r-- 1 arjun arjun  434679 Feb  8  2015 11516_left.jpeg
--rw-rw-r-- 1 arjun arjun  742807 Feb  8  2015 11505_right.jpeg
--rw-rw-r-- 1 arjun arjun  744670 Feb  8  2015 11505_left.jpeg
--rw-rw-r-- 1 arjun arjun 1427766 Feb  8  2015 11500_right.jpeg
--rw-rw-r-- 1 arjun arjun 1530154 Feb  8  2015 11500_left.jpeg
--rw-rw-r-- 1 arjun arjun 1521115 Feb  8  2015 114_right.jpeg
--rw-rw-r-- 1 arjun arjun 1539683 Feb  8  2015 114_left.jpeg
--rw-rw-r-- 1 arjun arjun  748864 Feb  8  2015 11495_right.jpeg
--rw-rw-r-- 1 arjun arjun 1455871 Feb  8  2015 1145_right.jpeg
--rw-rw-r-- 1 arjun arjun 1369131 Feb  8  2015 1145_left.jpeg
--rw-rw-r-- 1 arjun arjun 1106785 Feb  8  2015 11446_left.jpeg
--rw-rw-r-- 1 arjun arjun  374725 Feb  8  2015 11443_left.jpeg
--rw-rw-r-- 1 arjun arjun 1348321 Feb  8  2015 11437_left.jpeg
--rw-rw-r-- 1 arjun arjun 1041586 Feb  8  2015 1142_right.jpeg
--rw-rw-r-- 1 arjun arjun 1527660 Feb  8  2015 11427_right.jpeg
--rw-rw-r-- 1 arjun arjun  398669 Feb  8  2015 11425_right.jpeg
--rw-rw-r-- 1 arjun arjun  812498 Feb  8  2015 11421_right.jpeg
--rw-rw-r-- 1 arjun arjun 1194071 Feb  8  2015 1140_right.jpeg
--rw-rw-r-- 1 arjun arjun 1213787 Feb  8  2015 1140_left.jpeg
--rw-rw-r-- 1 arjun arjun 1529878 Feb  8  2015 1139_left.jpeg
--rw-rw-r-- 1 arjun arjun 1431143 Feb  8  2015 11315_left.jpeg
--rw-rw-r-- 1 arjun arjun 1498644 Feb  8  2015 11308_right.jpeg
--rw-rw-r-- 1 arjun arjun 1279647 Feb  8  2015 11263_right.jpeg
--rw-rw-r-- 1 arjun arjun 1221521 Feb  8  2015 11263_left.jpeg
--rw-rw-r-- 1 arjun arjun 1538092 Feb  8  2015 1119_right.jpeg
--rw-rw-r-- 1 arjun arjun  730521 Feb  8  2015 11183_right.jpeg
--rw-rw-r-- 1 arjun arjun  502858 Feb  8  2015 11163_right.jpeg
--rw-rw-r-- 1 arjun arjun  398313 Feb  8  2015 11162_left.jpeg
--rw-rw-r-- 1 arjun arjun 1569377 Feb  8  2015 11161_right.jpeg
--rw-rw-r-- 1 arjun arjun 1609215 Feb  8  2015 11161_left.jpeg
--rw-rw-r-- 1 arjun arjun  398912 Feb  8  2015 11159_right.jpeg
--rw-rw-r-- 1 arjun arjun  519586 Feb  8  2015 1111_right.jpeg
--rw-rw-r-- 1 arjun arjun  435545 Feb  8  2015 1111_left.jpeg
--rw-rw-r-- 1 arjun arjun  383081 Feb  8  2015 11113_right.jpeg
--rw-rw-r-- 1 arjun arjun 1109795 Feb  8  2015 11101_left.jpeg
--rw-rw-r-- 1 arjun arjun  722929 Feb  8  2015 1107_right.jpeg
--rw-rw-r-- 1 arjun arjun  700578 Feb  8  2015 1107_left.jpeg
--rw-rw-r-- 1 arjun arjun  948978 Feb  8  2015 11057_left.jpeg
--rw-rw-r-- 1 arjun arjun  760269 Feb  8  2015 11053_right.jpeg
--rw-rw-r-- 1 arjun arjun  828945 Feb  8  2015 11053_left.jpeg
--rw-rw-r-- 1 arjun arjun 1446704 Feb  8  2015 1100_right.jpeg
--rw-rw-r-- 1 arjun arjun 1470584 Feb  8  2015 1100_left.jpeg
--rw-rw-r-- 1 arjun arjun 1096465 Feb  8  2015 11007_right.jpeg
--rw-rw-r-- 1 arjun arjun 1087264 Feb  8  2015 11007_left.jpeg
--rw-rw-r-- 1 arjun arjun  390824 Feb  8  2015 11005_left.jpeg
--rw-rw-r-- 1 arjun arjun  836988 Feb  8  2015 10996_right.jpeg
--rw-rw-r-- 1 arjun arjun  871821 Feb  8  2015 1098_right.jpeg
--rw-rw-r-- 1 arjun arjun  706516 Feb  8  2015 1098_left.jpeg
--rw-rw-r-- 1 arjun arjun 1898750 Feb  8  2015 10925_right.jpeg
--rw-rw-r-- 1 arjun arjun  284370 Feb  8  2015 10853_right.jpeg
--rw-rw-r-- 1 arjun arjun  393187 Feb  8  2015 10853_left.jpeg
--rw-rw-r-- 1 arjun arjun  669911 Feb  8  2015 10822_right.jpeg
--rw-rw-r-- 1 arjun arjun  719675 Feb  8  2015 10822_left.jpeg
--rw-rw-r-- 1 arjun arjun 1255157 Feb  8  2015 10812_left.jpeg
--rw-rw-r-- 1 arjun arjun  345659 Feb  8  2015 10808_left.jpeg
--rw-rw-r-- 1 arjun arjun 1256709 Feb  8  2015 10790_right.jpeg
--rw-rw-r-- 1 arjun arjun  408450 Feb  8  2015 10787_right.jpeg
--rw-rw-r-- 1 arjun arjun  422094 Feb  8  2015 10787_left.jpeg
--rw-rw-r-- 1 arjun arjun 1566541 Feb  8  2015 1077_right.jpeg
--rw-rw-r-- 1 arjun arjun 1521885 Feb  8  2015 1077_left.jpeg
--rw-rw-r-- 1 arjun arjun 1464432 Feb  8  2015 1076_left.jpeg
--rw-rw-r-- 1 arjun arjun 1362079 Feb  8  2015 10762_left.jpeg
--rw-rw-r-- 1 arjun arjun 1300738 Feb  8  2015 1075_left.jpeg
--rw-rw-r-- 1 arjun arjun 1059656 Feb  8  2015 10758_right.jpeg
--rw-rw-r-- 1 arjun arjun 1146518 Feb  8  2015 10758_left.jpeg
--rw-rw-r-- 1 arjun arjun 1567933 Feb  8  2015 10737_right.jpeg
--rw-rw-r-- 1 arjun arjun 1794765 Feb  8  2015 10672_right.jpeg
--rw-rw-r-- 1 arjun arjun 1761564 Feb  8  2015 10672_left.jpeg
--rw-rw-r-- 1 arjun arjun 1449151 Feb  8  2015 10657_right.jpeg
--rw-rw-r-- 1 arjun arjun 1497438 Feb  8  2015 10657_left.jpeg
--rw-rw-r-- 1 arjun arjun 1368088 Feb  8  2015 10594_right.jpeg
--rw-rw-r-- 1 arjun arjun 1195277 Feb  8  2015 10567_right.jpeg
--rw-rw-r-- 1 arjun arjun  343177 Feb  8  2015 10551_right.jpeg
--rw-rw-r-- 1 arjun arjun  351615 Feb  8  2015 10551_left.jpeg
--rw-rw-r-- 1 arjun arjun  729549 Feb  8  2015 10545_right.jpeg
--rw-rw-r-- 1 arjun arjun  253601 Feb  8  2015 1050_right.jpeg
--rw-rw-r-- 1 arjun arjun  247826 Feb  8  2015 1050_left.jpeg
--rw-rw-r-- 1 arjun arjun 1323164 Feb  8  2015 1049_right.jpeg
--rw-rw-r-- 1 arjun arjun 1253312 Feb  8  2015 1049_left.jpeg
--rw-rw-r-- 1 arjun arjun  980216 Feb  8  2015 10468_right.jpeg
--rw-rw-r-- 1 arjun arjun 1208491 Feb  8  2015 1043_left.jpeg
--rw-rw-r-- 1 arjun arjun 1322930 Feb  8  2015 10426_left.jpeg
--rw-rw-r-- 1 arjun arjun  387641 Feb  8  2015 10384_left.jpeg
--rw-rw-r-- 1 arjun arjun 1755074 Feb  8  2015 1037_right.jpeg
--rw-rw-r-- 1 arjun arjun 1558898 Feb  8  2015 1036_right.jpeg
--rw-rw-r-- 1 arjun arjun 1555727 Feb  8  2015 1036_left.jpeg
--rw-rw-r-- 1 arjun arjun 1041689 Feb  8  2015 10356_right.jpeg
--rw-rw-r-- 1 arjun arjun 1068459 Feb  8  2015 1034_right.jpeg
--rw-rw-r-- 1 arjun arjun 1087663 Feb  8  2015 1034_left.jpeg
--rw-rw-r-- 1 arjun arjun 1617093 Feb  8  2015 10334_left.jpeg
--rw-rw-r-- 1 arjun arjun  814498 Feb  8  2015 1032_right.jpeg
--rw-rw-r-- 1 arjun arjun  774488 Feb  8  2015 1032_left.jpeg
--rw-rw-r-- 1 arjun arjun 1710102 Feb  8  2015 10320_right.jpeg
--rw-rw-r-- 1 arjun arjun 1832323 Feb  8  2015 1030_right.jpeg
--rw-rw-r-- 1 arjun arjun 1895344 Feb  8  2015 1030_left.jpeg
--rw-rw-r-- 1 arjun arjun  782336 Feb  8  2015 10297_right.jpeg
--rw-rw-r-- 1 arjun arjun 1361678 Feb  8  2015 1027_left.jpeg
--rw-rw-r-- 1 arjun arjun 1200892 Feb  8  2015 10269_left.jpeg
--rw-rw-r-- 1 arjun arjun  509255 Feb  8  2015 10234_right.jpeg
--rw-rw-r-- 1 arjun arjun  773974 Feb  8  2015 10234_left.jpeg
--rw-rw-r-- 1 arjun arjun 1221500 Feb  8  2015 10233_right.jpeg
--rw-rw-r-- 1 arjun arjun 1202224 Feb  8  2015 10233_left.jpeg
--rw-rw-r-- 1 arjun arjun 1407414 Feb  8  2015 10232_right.jpeg
--rw-rw-r-- 1 arjun arjun  720174 Feb  8  2015 10221_right.jpeg
--rw-rw-r-- 1 arjun arjun  685116 Feb  8  2015 10220_left.jpeg
--rw-rw-r-- 1 arjun arjun  905872 Feb  8  2015 1020_right.jpeg
--rw-rw-r-- 1 arjun arjun  978313 Feb  8  2015 1020_left.jpeg
--rw-rw-r-- 1 arjun arjun  455971 Feb  8  2015 10183_left.jpeg
--rw-rw-r-- 1 arjun arjun 1263199 Feb  8  2015 10181_right.jpeg
--rw-rw-r-- 1 arjun arjun 1405755 Feb  8  2015 10181_left.jpeg
--rw-rw-r-- 1 arjun arjun 1447612 Feb  8  2015 10177_right.jpeg
--rw-rw-r-- 1 arjun arjun 1473856 Feb  8  2015 10177_left.jpeg
--rw-rw-r-- 1 arjun arjun 1557590 Feb  8  2015 10169_right.jpeg
--rw-rw-r-- 1 arjun arjun 1033650 Feb  8  2015 10160_right.jpeg
--rw-rw-r-- 1 arjun arjun 1038089 Feb  8  2015 10160_left.jpeg
--rw-rw-r-- 1 arjun arjun 1324855 Feb  8  2015 10159_left.jpeg
--rw-rw-r-- 1 arjun arjun 1528545 Feb  8  2015 10156_right.jpeg
--rw-rw-r-- 1 arjun arjun 1567726 Feb  8  2015 10156_left.jpeg
--rw-rw-r-- 1 arjun arjun 1357585 Feb  8  2015 10150_right.jpeg
--rw-rw-r-- 1 arjun arjun 1230088 Feb  8  2015 10150_left.jpeg
--rw-rw-r-- 1 arjun arjun 1404813 Feb  8  2015 10147_right.jpeg
--rw-rw-r-- 1 arjun arjun 1373713 Feb  8  2015 10147_left.jpeg
--rw-rw-r-- 1 arjun arjun 1799340 Feb  8  2015 10135_right.jpeg
--rw-rw-r-- 1 arjun arjun 1829389 Feb  8  2015 10135_left.jpeg
--rw-rw-r-- 1 arjun arjun  545057 Feb  8  2015 10131_right.jpeg
--rw-rw-r-- 1 arjun arjun  525816 Feb  8  2015 10131_left.jpeg
--rw-rw-r-- 1 arjun arjun 1289384 Feb  8  2015 10120_right.jpeg
--rw-rw-r-- 1 arjun arjun 1288682 Feb  8  2015 10120_left.jpeg
--rw-rw-r-- 1 arjun arjun  390485 Feb  8  2015 10112_left.jpeg
--rw-rw-r-- 1 arjun arjun 1075679 Feb  8  2015 10109_right.jpeg
--rw-rw-r-- 1 arjun arjun 1042501 Feb  8  2015 10109_left.jpeg
--rw-rw-r-- 1 arjun arjun 1538406 Feb  8  2015 10085_right.jpeg
--rw-rw-r-- 1 arjun arjun 1646370 Feb  8  2015 10085_left.jpeg
--rw-rw-r-- 1 arjun arjun  702362 Feb  8  2015 10043_right.jpeg
--rw-rw-r-- 1 arjun arjun  686315 Feb  8  2015 10043_left.jpeg
--rw-rw-r-- 1 arjun arjun  787165 Feb  8  2015 10030_right.jpeg
--rw-rw-r-- 1 arjun arjun  783224 Feb  8  2015 10030_left.jpeg
--rw-rw-r-- 1 arjun arjun 1406200 Feb  8  2015 1002_right.jpeg
-drwxr-x--- 5 arjun arjun    4096 Feb  5 11:13 ..
-drwxrwxr-x 2 arjun arjun   12288 Feb  5 11:18 .
+-rw-rw-r-- 1         0 Feb  5 11:18 dirlist.txt
+-rw-rw-r-- 1   1504596 Feb  8  2015 1658_left.jpeg
+-rw-rw-r-- 1    776577 Feb  8  2015 1640_right.jpeg
+-rw-rw-r-- 1   1585508 Feb  8  2015 1636_right.jpeg
+-rw-rw-r-- 1   1542209 Feb  8  2015 1636_left.jpeg
+-rw-rw-r-- 1   1388233 Feb  8  2015 1632_right.jpeg
+-rw-rw-r-- 1   1378896 Feb  8  2015 1632_left.jpeg
+-rw-rw-r-- 1   1292379 Feb  8  2015 1614_right.jpeg
+-rw-rw-r-- 1   1161258 Feb  8  2015 1614_left.jpeg
+-rw-rw-r-- 1   1270344 Feb  8  2015 1607_right.jpeg
+-rw-rw-r-- 1   1286160 Feb  8  2015 1607_left.jpeg
+-rw-rw-r-- 1   1033705 Feb  8  2015 15_right.jpeg
+-rw-rw-r-- 1   1034031 Feb  8  2015 15_left.jpeg
+-rw-rw-r-- 1   1649277 Feb  8  2015 1599_right.jpeg
+-rw-rw-r-- 1   1659442 Feb  8  2015 1599_left.jpeg
+-rw-rw-r-- 1    383479 Feb  8  2015 1592_right.jpeg
+-rw-rw-r-- 1    376309 Feb  8  2015 1592_left.jpeg
+-rw-rw-r-- 1   1211261 Feb  8  2015 1570_left.jpeg
+-rw-rw-r-- 1   1339541 Feb  8  2015 155_right.jpeg
+-rw-rw-r-- 1    745904 Feb  8  2015 1557_right.jpeg
+-rw-rw-r-- 1   1051284 Feb  8  2015 1552_right.jpeg
+-rw-rw-r-- 1   1092603 Feb  8  2015 1552_left.jpeg
+-rw-rw-r-- 1    864457 Feb  8  2015 1544_right.jpeg
+-rw-rw-r-- 1    859135 Feb  8  2015 1544_left.jpeg
+-rw-rw-r-- 1    291345 Feb  8  2015 1541_right.jpeg
+-rw-rw-r-- 1    290558 Feb  8  2015 1541_left.jpeg
+-rw-rw-r-- 1    332158 Feb  8  2015 1540_right.jpeg
+-rw-rw-r-- 1    350122 Feb  8  2015 1540_left.jpeg
+-rw-rw-r-- 1    771640 Feb  8  2015 1536_right.jpeg
+-rw-rw-r-- 1    777660 Feb  8  2015 1536_left.jpeg
+-rw-rw-r-- 1   1274026 Feb  8  2015 1532_left.jpeg
+-rw-rw-r-- 1   1710060 Feb  8  2015 1530_right.jpeg
+-rw-rw-r-- 1   1675074 Feb  8  2015 1530_left.jpeg
+-rw-rw-r-- 1   1409523 Feb  8  2015 1527_left.jpeg
+-rw-rw-r-- 1   1080400 Feb  8  2015 1526_left.jpeg
+-rw-rw-r-- 1   1400357 Feb  8  2015 1520_right.jpeg
+-rw-rw-r-- 1   1397401 Feb  8  2015 1520_left.jpeg
+-rw-rw-r-- 1   1206553 Feb  8  2015 1509_right.jpeg
+-rw-rw-r-- 1    791863 Feb  8  2015 1505_left.jpeg
+-rw-rw-r-- 1   1465020 Feb  8  2015 1501_right.jpeg
+-rw-rw-r-- 1   1461331 Feb  8  2015 1501_left.jpeg
+-rw-rw-r-- 1   1208059 Feb  8  2015 1500_left.jpeg
+-rw-rw-r-- 1    664692 Feb  8  2015 1496_right.jpeg
+-rw-rw-r-- 1    638142 Feb  8  2015 1496_left.jpeg
+-rw-rw-r-- 1    714445 Feb  8  2015 1495_right.jpeg
+-rw-rw-r-- 1    768750 Feb  8  2015 1495_left.jpeg
+-rw-rw-r-- 1   1418637 Feb  8  2015 1487_left.jpeg
+-rw-rw-r-- 1    754108 Feb  8  2015 1475_right.jpeg
+-rw-rw-r-- 1    304701 Feb  8  2015 1475_left.jpeg
+-rw-rw-r-- 1   1458187 Feb  8  2015 1469_right.jpeg
+-rw-rw-r-- 1   1553834 Feb  8  2015 1469_left.jpeg
+-rw-rw-r-- 1    384458 Feb  8  2015 1454_left.jpeg
+-rw-rw-r-- 1   1539751 Feb  8  2015 1444_right.jpeg
+-rw-rw-r-- 1   1583365 Feb  8  2015 1444_left.jpeg
+-rw-rw-r-- 1    803946 Feb  8  2015 1419_right.jpeg
+-rw-rw-r-- 1    819571 Feb  8  2015 1419_left.jpeg
+-rw-rw-r-- 1   1121605 Feb  8  2015 1412_left.jpeg
+-rw-rw-r-- 1   1485579 Feb  8  2015 1409_left.jpeg
+-rw-rw-r-- 1   1005736 Feb  8  2015 1407_right.jpeg
+-rw-rw-r-- 1   1093009 Feb  8  2015 1407_left.jpeg
+-rw-rw-r-- 1   1392982 Feb  8  2015 1391_right.jpeg
+-rw-rw-r-- 1    335665 Feb  8  2015 1374_right.jpeg
+-rw-rw-r-- 1    680307 Feb  8  2015 1369_right.jpeg
+-rw-rw-r-- 1    669981 Feb  8  2015 1369_left.jpeg
+-rw-rw-r-- 1   1669165 Feb  8  2015 1367_right.jpeg
+-rw-rw-r-- 1   1637979 Feb  8  2015 1367_left.jpeg
+-rw-rw-r-- 1    798665 Feb  8  2015 1362_right.jpeg
+-rw-rw-r-- 1    715074 Feb  8  2015 1362_left.jpeg
+-rw-rw-r-- 1   1468300 Feb  8  2015 1343_right.jpeg
+-rw-rw-r-- 1   1337861 Feb  8  2015 1343_left.jpeg
+-rw-rw-r-- 1   1387182 Feb  8  2015 1324_right.jpeg
+-rw-rw-r-- 1    720652 Feb  8  2015 1309_left.jpeg
+-rw-rw-r-- 1   1431294 Feb  8  2015 129_right.jpeg
+-rw-rw-r-- 1   1424619 Feb  8  2015 129_left.jpeg
+-rw-rw-r-- 1    730825 Feb  8  2015 1296_right.jpeg
+-rw-rw-r-- 1    715704 Feb  8  2015 1296_left.jpeg
+-rw-rw-r-- 1    752225 Feb  8  2015 1290_right.jpeg
+-rw-rw-r-- 1    740840 Feb  8  2015 1290_left.jpeg
+-rw-rw-r-- 1   1103649 Feb  8  2015 1283_left.jpeg
+-rw-rw-r-- 1   1466688 Feb  8  2015 1277_left.jpeg
+-rw-rw-r-- 1   1407824 Feb  8  2015 1266_right.jpeg
+-rw-rw-r-- 1   1496292 Feb  8  2015 1266_left.jpeg
+-rw-rw-r-- 1   1381958 Feb  8  2015 1259_right.jpeg
+-rw-rw-r-- 1   1367401 Feb  8  2015 1259_left.jpeg
+-rw-rw-r-- 1   1489162 Feb  8  2015 1233_right.jpeg
+-rw-rw-r-- 1   1458665 Feb  8  2015 1233_left.jpeg
+-rw-rw-r-- 1    410228 Feb  8  2015 1226_left.jpeg
+-rw-rw-r-- 1   1655208 Feb  8  2015 1204_right.jpeg
+-rw-rw-r-- 1   1537413 Feb  8  2015 1204_left.jpeg
+-rw-rw-r-- 1   1444140 Feb  8  2015 1178_right.jpeg
+-rw-rw-r-- 1    999828 Feb  8  2015 1178_left.jpeg
+-rw-rw-r-- 1   1507020 Feb  8  2015 1167_right.jpeg
+-rw-rw-r-- 1   1532284 Feb  8  2015 1167_left.jpeg
+-rw-rw-r-- 1    941092 Feb  8  2015 1152_right.jpeg
+-rw-rw-r-- 1   1259396 Feb  8  2015 11526_left.jpeg
+-rw-rw-r-- 1    434679 Feb  8  2015 11516_left.jpeg
+-rw-rw-r-- 1    742807 Feb  8  2015 11505_right.jpeg
+-rw-rw-r-- 1    744670 Feb  8  2015 11505_left.jpeg
+-rw-rw-r-- 1   1427766 Feb  8  2015 11500_right.jpeg
+-rw-rw-r-- 1   1530154 Feb  8  2015 11500_left.jpeg
+-rw-rw-r-- 1   1521115 Feb  8  2015 114_right.jpeg
+-rw-rw-r-- 1   1539683 Feb  8  2015 114_left.jpeg
+-rw-rw-r-- 1    748864 Feb  8  2015 11495_right.jpeg
+-rw-rw-r-- 1   1455871 Feb  8  2015 1145_right.jpeg
+-rw-rw-r-- 1   1369131 Feb  8  2015 1145_left.jpeg
+-rw-rw-r-- 1   1106785 Feb  8  2015 11446_left.jpeg
+-rw-rw-r-- 1    374725 Feb  8  2015 11443_left.jpeg
+-rw-rw-r-- 1   1348321 Feb  8  2015 11437_left.jpeg
+-rw-rw-r-- 1   1041586 Feb  8  2015 1142_right.jpeg
+-rw-rw-r-- 1   1527660 Feb  8  2015 11427_right.jpeg
+-rw-rw-r-- 1    398669 Feb  8  2015 11425_right.jpeg
+-rw-rw-r-- 1    812498 Feb  8  2015 11421_right.jpeg
+-rw-rw-r-- 1   1194071 Feb  8  2015 1140_right.jpeg
+-rw-rw-r-- 1   1213787 Feb  8  2015 1140_left.jpeg
+-rw-rw-r-- 1   1529878 Feb  8  2015 1139_left.jpeg
+-rw-rw-r-- 1   1431143 Feb  8  2015 11315_left.jpeg
+-rw-rw-r-- 1   1498644 Feb  8  2015 11308_right.jpeg
+-rw-rw-r-- 1   1279647 Feb  8  2015 11263_right.jpeg
+-rw-rw-r-- 1   1221521 Feb  8  2015 11263_left.jpeg
+-rw-rw-r-- 1   1538092 Feb  8  2015 1119_right.jpeg
+-rw-rw-r-- 1    730521 Feb  8  2015 11183_right.jpeg
+-rw-rw-r-- 1    502858 Feb  8  2015 11163_right.jpeg
+-rw-rw-r-- 1    398313 Feb  8  2015 11162_left.jpeg
+-rw-rw-r-- 1   1569377 Feb  8  2015 11161_right.jpeg
+-rw-rw-r-- 1   1609215 Feb  8  2015 11161_left.jpeg
+-rw-rw-r-- 1    398912 Feb  8  2015 11159_right.jpeg
+-rw-rw-r-- 1    519586 Feb  8  2015 1111_right.jpeg
+-rw-rw-r-- 1    435545 Feb  8  2015 1111_left.jpeg
+-rw-rw-r-- 1    383081 Feb  8  2015 11113_right.jpeg
+-rw-rw-r-- 1   1109795 Feb  8  2015 11101_left.jpeg
+-rw-rw-r-- 1    722929 Feb  8  2015 1107_right.jpeg
+-rw-rw-r-- 1    700578 Feb  8  2015 1107_left.jpeg
+-rw-rw-r-- 1    948978 Feb  8  2015 11057_left.jpeg
+-rw-rw-r-- 1    760269 Feb  8  2015 11053_right.jpeg
+-rw-rw-r-- 1    828945 Feb  8  2015 11053_left.jpeg
+-rw-rw-r-- 1   1446704 Feb  8  2015 1100_right.jpeg
+-rw-rw-r-- 1   1470584 Feb  8  2015 1100_left.jpeg
+-rw-rw-r-- 1   1096465 Feb  8  2015 11007_right.jpeg
+-rw-rw-r-- 1   1087264 Feb  8  2015 11007_left.jpeg
+-rw-rw-r-- 1    390824 Feb  8  2015 11005_left.jpeg
+-rw-rw-r-- 1    836988 Feb  8  2015 10996_right.jpeg
+-rw-rw-r-- 1    871821 Feb  8  2015 1098_right.jpeg
+-rw-rw-r-- 1    706516 Feb  8  2015 1098_left.jpeg
+-rw-rw-r-- 1   1898750 Feb  8  2015 10925_right.jpeg
+-rw-rw-r-- 1    284370 Feb  8  2015 10853_right.jpeg
+-rw-rw-r-- 1    393187 Feb  8  2015 10853_left.jpeg
+-rw-rw-r-- 1    669911 Feb  8  2015 10822_right.jpeg
+-rw-rw-r-- 1    719675 Feb  8  2015 10822_left.jpeg
+-rw-rw-r-- 1   1255157 Feb  8  2015 10812_left.jpeg
+-rw-rw-r-- 1    345659 Feb  8  2015 10808_left.jpeg
+-rw-rw-r-- 1   1256709 Feb  8  2015 10790_right.jpeg
+-rw-rw-r-- 1    408450 Feb  8  2015 10787_right.jpeg
+-rw-rw-r-- 1    422094 Feb  8  2015 10787_left.jpeg
+-rw-rw-r-- 1   1566541 Feb  8  2015 1077_right.jpeg
+-rw-rw-r-- 1   1521885 Feb  8  2015 1077_left.jpeg
+-rw-rw-r-- 1   1464432 Feb  8  2015 1076_left.jpeg
+-rw-rw-r-- 1   1362079 Feb  8  2015 10762_left.jpeg
+-rw-rw-r-- 1   1300738 Feb  8  2015 1075_left.jpeg
+-rw-rw-r-- 1   1059656 Feb  8  2015 10758_right.jpeg
+-rw-rw-r-- 1   1146518 Feb  8  2015 10758_left.jpeg
+-rw-rw-r-- 1   1567933 Feb  8  2015 10737_right.jpeg
+-rw-rw-r-- 1   1794765 Feb  8  2015 10672_right.jpeg
+-rw-rw-r-- 1   1761564 Feb  8  2015 10672_left.jpeg
+-rw-rw-r-- 1   1449151 Feb  8  2015 10657_right.jpeg
+-rw-rw-r-- 1   1497438 Feb  8  2015 10657_left.jpeg
+-rw-rw-r-- 1   1368088 Feb  8  2015 10594_right.jpeg
+-rw-rw-r-- 1   1195277 Feb  8  2015 10567_right.jpeg
+-rw-rw-r-- 1    343177 Feb  8  2015 10551_right.jpeg
+-rw-rw-r-- 1    351615 Feb  8  2015 10551_left.jpeg
+-rw-rw-r-- 1    729549 Feb  8  2015 10545_right.jpeg
+-rw-rw-r-- 1    253601 Feb  8  2015 1050_right.jpeg
+-rw-rw-r-- 1    247826 Feb  8  2015 1050_left.jpeg
+-rw-rw-r-- 1   1323164 Feb  8  2015 1049_right.jpeg
+-rw-rw-r-- 1   1253312 Feb  8  2015 1049_left.jpeg
+-rw-rw-r-- 1    980216 Feb  8  2015 10468_right.jpeg
+-rw-rw-r-- 1   1208491 Feb  8  2015 1043_left.jpeg
+-rw-rw-r-- 1   1322930 Feb  8  2015 10426_left.jpeg
+-rw-rw-r-- 1    387641 Feb  8  2015 10384_left.jpeg
+-rw-rw-r-- 1   1755074 Feb  8  2015 1037_right.jpeg
+-rw-rw-r-- 1   1558898 Feb  8  2015 1036_right.jpeg
+-rw-rw-r-- 1   1555727 Feb  8  2015 1036_left.jpeg
+-rw-rw-r-- 1   1041689 Feb  8  2015 10356_right.jpeg
+-rw-rw-r-- 1   1068459 Feb  8  2015 1034_right.jpeg
+-rw-rw-r-- 1   1087663 Feb  8  2015 1034_left.jpeg
+-rw-rw-r-- 1   1617093 Feb  8  2015 10334_left.jpeg
+-rw-rw-r-- 1    814498 Feb  8  2015 1032_right.jpeg
+-rw-rw-r-- 1    774488 Feb  8  2015 1032_left.jpeg
+-rw-rw-r-- 1   1710102 Feb  8  2015 10320_right.jpeg
+-rw-rw-r-- 1   1832323 Feb  8  2015 1030_right.jpeg
+-rw-rw-r-- 1   1895344 Feb  8  2015 1030_left.jpeg
+-rw-rw-r-- 1    782336 Feb  8  2015 10297_right.jpeg
+-rw-rw-r-- 1   1361678 Feb  8  2015 1027_left.jpeg
+-rw-rw-r-- 1   1200892 Feb  8  2015 10269_left.jpeg
+-rw-rw-r-- 1    509255 Feb  8  2015 10234_right.jpeg
+-rw-rw-r-- 1    773974 Feb  8  2015 10234_left.jpeg
+-rw-rw-r-- 1   1221500 Feb  8  2015 10233_right.jpeg
+-rw-rw-r-- 1   1202224 Feb  8  2015 10233_left.jpeg
+-rw-rw-r-- 1   1407414 Feb  8  2015 10232_right.jpeg
+-rw-rw-r-- 1    720174 Feb  8  2015 10221_right.jpeg
+-rw-rw-r-- 1    685116 Feb  8  2015 10220_left.jpeg
+-rw-rw-r-- 1    905872 Feb  8  2015 1020_right.jpeg
+-rw-rw-r-- 1    978313 Feb  8  2015 1020_left.jpeg
+-rw-rw-r-- 1    455971 Feb  8  2015 10183_left.jpeg
+-rw-rw-r-- 1   1263199 Feb  8  2015 10181_right.jpeg
+-rw-rw-r-- 1   1405755 Feb  8  2015 10181_left.jpeg
+-rw-rw-r-- 1   1447612 Feb  8  2015 10177_right.jpeg
+-rw-rw-r-- 1   1473856 Feb  8  2015 10177_left.jpeg
+-rw-rw-r-- 1   1557590 Feb  8  2015 10169_right.jpeg
+-rw-rw-r-- 1   1033650 Feb  8  2015 10160_right.jpeg
+-rw-rw-r-- 1   1038089 Feb  8  2015 10160_left.jpeg
+-rw-rw-r-- 1   1324855 Feb  8  2015 10159_left.jpeg
+-rw-rw-r-- 1   1528545 Feb  8  2015 10156_right.jpeg
+-rw-rw-r-- 1   1567726 Feb  8  2015 10156_left.jpeg
+-rw-rw-r-- 1   1357585 Feb  8  2015 10150_right.jpeg
+-rw-rw-r-- 1   1230088 Feb  8  2015 10150_left.jpeg
+-rw-rw-r-- 1   1404813 Feb  8  2015 10147_right.jpeg
+-rw-rw-r-- 1   1373713 Feb  8  2015 10147_left.jpeg
+-rw-rw-r-- 1   1799340 Feb  8  2015 10135_right.jpeg
+-rw-rw-r-- 1   1829389 Feb  8  2015 10135_left.jpeg
+-rw-rw-r-- 1    545057 Feb  8  2015 10131_right.jpeg
+-rw-rw-r-- 1    525816 Feb  8  2015 10131_left.jpeg
+-rw-rw-r-- 1   1289384 Feb  8  2015 10120_right.jpeg
+-rw-rw-r-- 1   1288682 Feb  8  2015 10120_left.jpeg
+-rw-rw-r-- 1    390485 Feb  8  2015 10112_left.jpeg
+-rw-rw-r-- 1   1075679 Feb  8  2015 10109_right.jpeg
+-rw-rw-r-- 1   1042501 Feb  8  2015 10109_left.jpeg
+-rw-rw-r-- 1   1538406 Feb  8  2015 10085_right.jpeg
+-rw-rw-r-- 1   1646370 Feb  8  2015 10085_left.jpeg
+-rw-rw-r-- 1    702362 Feb  8  2015 10043_right.jpeg
+-rw-rw-r-- 1    686315 Feb  8  2015 10043_left.jpeg
+-rw-rw-r-- 1    787165 Feb  8  2015 10030_right.jpeg
+-rw-rw-r-- 1    783224 Feb  8  2015 10030_left.jpeg
+-rw-rw-r-- 1   1406200 Feb  8  2015 1002_right.jpeg
+drwxr-x--- 5      4096 Feb  5 11:13 ..
+drwxrwxr-x 2     12288 Feb  5 11:18 .
