@@ -6,3 +6,5 @@ Diabetic retinopathy is one of the leading causes of blindness in the the world 
 Images from Kaggle's Diabetic Retinopathy detection challenge: https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 Note: This is not to be used in any situation other than software testing. This should not be used in any medical circumstances. We are not responsible for any damage that occurs with use of this project. 
+
+We also have a version of this program to run on the web. Find it at https://github.com/nomikxyz/retinopathy-server
