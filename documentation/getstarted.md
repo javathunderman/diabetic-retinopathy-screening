@@ -34,7 +34,7 @@ This algorithm uses a few different files, so let's walk through them.
 
 1. Install Python and Tensorflow. (You can find a tutorial on the Tensorflow website on how to do this.) In the course of developing this project, we used a python 2.7 install with a corresponding Tensorflow for python 2.7 install. 
 
-2. Clone/download this repository and the dataset. (Dataset here: https://www.kaggle.com/c/diabetic-retinopathy-detection/data. You will need all of the "train.00x.zip" files, the training_labels.zip file, and some method to separate them into different directories based on that master list. You can use our sorting script, which is available here: https://gist.github.com/javathunderman/6a9f9c8a0ee29cb7a817777421685e49. We will publish a more organized subset of this entire dataset soon, but for right now you can use that.)
+2. Clone/download this repository and the dataset. (Dataset here: https://www.kaggle.com/c/diabetic-retinopathy-detection/data. You will need all of the "train.00x.zip" files, the training_labels.zip file, and some method to separate them into different directories based on that master list. You can use our sorting script, which is available here: https://gist.github.com/javathunderman/6a9f9c8a0ee29cb7a817777421685e49. A smaller, curated version is available at https://github.com/Nomikxyz/retinopathy-dataset.)
 
 3. Fill out dataindex.csv with the file addresses of the images you want to test. (Unless you have a system with a lot of resources on tap, don't go over 10 images in a single batch. It tends to overload the graph file and cause all sorts of issues.)
 
